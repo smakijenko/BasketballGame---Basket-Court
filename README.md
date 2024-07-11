@@ -1,4 +1,4 @@
-The game was written using SpriteKit
+The game was written in Swift using SpriteKit
 
 Hi, here is the link to watch how the game looks like:
 https://youtu.be/ppY0LtxHmB8
